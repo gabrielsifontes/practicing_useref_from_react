@@ -48,7 +48,7 @@ function App() {
 
   return (
     <>
-      <h1>Practicando el useRef</h1>
+      <h1>Practicando el useRef de React.js</h1>
 
       <div className='contenedor'>
         <div className='caja'>                      
