@@ -50,7 +50,7 @@ function App() {
     <>
       <h1>Practicando el useRef de React.js</h1>
 
-      <p>Haz click en los reyes y en sus nombre para ver los cambios.</p>
+      <p>Haz click en los reyes y en sus nombres para ver los cambios.</p>
 
 
       <div className='contenedor'>
